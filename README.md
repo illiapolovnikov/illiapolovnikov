@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on stuff
+- 🌱 I’m currently learning stuff
+- 👯 I’m *NOT* looking to collaborate on stuff
 <!--
 **illiapolovnikov/illiapolovnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
